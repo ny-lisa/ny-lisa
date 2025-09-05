@@ -12,3 +12,13 @@
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/)
 - [Twitter](https://twitter.com/)
+
+### 🛠️ Languages I Know
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+
+  <!-- Tools & Frameworks (optional) -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,react,tailwind" />
+</p>
