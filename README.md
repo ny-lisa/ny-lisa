@@ -17,7 +17,7 @@
 
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,django" />
 
   <!-- Tools & Frameworks (optional) -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,react,tailwind" />
