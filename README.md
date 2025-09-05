@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Sue
 
-<!--
-**ny-lisa/ny-lisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Tailwind CSS**  
+💻 I’m studying **Software Engineering**  
+🎬 I like movies, anime, K-dramas & webtoons  
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- Languages: JavaScript, Python, C++
+- Tools: Git, VS Code, Figma
+- Learning: Tailwind CSS, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/)
+- [Twitter](https://twitter.com/)
